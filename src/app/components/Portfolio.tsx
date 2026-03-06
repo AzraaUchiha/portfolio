@@ -3,7 +3,7 @@ import { ExternalLink } from "lucide-react";
 
 const portfolioItems = [
   {
-    title: "Books account",
+    title: "Bookstagram",
     category: "Instagram Marketing",
     description: "I run a Books account on Instagram with 20K+ views, where I create engaging content that combines book reviews, literary discussions, and visually appealing aesthetics to foster a vibrant community of book lovers.",
     image: "/social-media-campaign.png",
@@ -13,7 +13,7 @@ const portfolioItems = [
   {
     title: "Art account",
     category: "Instagram & Reels",
-    description: "I run a art account on TikTok and Instagram, where I create visually engaging reels that showcase my artistic process, share creative insights, and connect with a community of art enthusiasts, driving significant engagement and growth.",
+    description: "I run an art account on TikTok and Instagram, where I create visually engaging reels that showcase my artistic process, share creative insights, and connect with a community of art enthusiasts, driving significant engagement and growth.",
     image: "/art-account.jpg",
     link: "https://www.instagram.com/uchiha_baby?igsh=MWhtbG5zNnhxbXYwMA==",
     tags: ["Instagram", "Video Content", "Viral Marketing"],
