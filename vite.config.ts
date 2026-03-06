@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   // Use relative asset paths so GitHub Pages works for any repository name.
-  base: '/The-Website/',
+  base: '/portfolio/',
   plugins: [
     // The React and Tailwind plugins are both required for Make, even if
     // Tailwind is not being actively used – do not remove them
