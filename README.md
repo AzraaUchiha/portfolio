@@ -1,11 +1,11 @@
+Place your CV PDF in this folder and name it `cv.pdf`.
 
-  # Azraa Amod Portfolio
+Example:
+- public/cv.pdf
 
-  This is a code bundle for Azraa Amod Portfolio. The original project is available at https://www.figma.com/design/zuvknEJMCJd78rWZnlCk6p/Portfolio-website-for-BA-student.
+Place your profile photo in this folder and name it `profile-photo.jpg`.
 
-  ## Running the code
+Example:
+- public/profile-photo.jpg
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+The Download CV button in the hero section links to `/cv.pdf` and will trigger a browser download.
