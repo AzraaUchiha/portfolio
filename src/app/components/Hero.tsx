@@ -37,8 +37,8 @@ export function Hero() {
                 <ArrowRight size={20} />
               </button>
               <a
-                href={`${import.meta.env.BASE_URL}cv.pdf`}
-                download="Aqeel-Majal-CV.pdf"
+                href={`${import.meta.env.BASE_URL}Azraa_Amod (3).pdf`}
+                download="Azraa-Amod-CV.pdf"
                 className="px-6 py-3 border border-neutral-900 text-neutral-900 hover:bg-neutral-900 hover:text-white transition-colors flex items-center gap-2"
               >
                 Download CV
